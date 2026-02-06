@@ -8,4 +8,4 @@ name: index
 eleventyNavigation:
   order: 4
 ---
-
+{% image src="/_images/image-business.webp" %}
