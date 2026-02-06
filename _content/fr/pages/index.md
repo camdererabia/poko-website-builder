@@ -18,9 +18,9 @@ metadata:
 ---
 {% image src="undefined" %}
 
-Projets & expériences académiques »
+Projets & expériences académiques
 
-Projet ERP – Odoo
+Projet ERP  Odoo
 
 L’un des projets les plus marquants de mon parcours est un projet complet réalisé sur Odoo dans le cadre du cours de gestion de projets IT.
 L’objectif était de créer une entreprise fictive spécialisée dans la vente de lunettes de réalité augmentée destinées aux sportifs (coureurs, skieurs, etc.), permettant de mesurer et d’optimiser leurs performances sportives.
