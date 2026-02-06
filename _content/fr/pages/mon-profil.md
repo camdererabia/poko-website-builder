@@ -6,7 +6,9 @@ uuid: 4563ad288356
 localizationKey: b343cbc722b2
 name: Mon profil
 ---
-Je suis étudiante en e-Business à l’EPHEC, en troisième année de bachelier, avec une spécialisation en Business Analysis.
+# Présentation générale 
+
+## Je suis étudiante en e-Business à l’EPHEC, en troisième année de bachelier, avec une spécialisation en Business Analysis.
 
 Passionnée par le digital, la data et l’optimisation des processus, je m’intéresse particulièrement à la manière dont les outils numériques et les ERP peuvent aider les entreprises à mieux structurer leurs activités, automatiser leurs opérations et prendre de meilleures décisions.
 
