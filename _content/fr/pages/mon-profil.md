@@ -14,8 +14,6 @@ Passionnée par le digital, la data et l’optimisation des processus, je m’in
 
 Mon profil se situe à l’intersection du business et de la technologie : j’aime analyser des besoins, comprendre des problématiques concrètes et proposer des solutions efficaces, structurées et orientées résultats. Curieuse et proactive, je cherche constamment à apprendre et à développer des compétences utiles et applicables sur le terrain.
 
-{% section type="switcher", vars={"widthWrap":"","gap":"","class":""}, blocks=[], advanced={} %}
-
 ## Mon parcours académique :
 
 ## 
@@ -25,3 +23,7 @@ Mon profil se situe à l’intersection du business et de la technologie : j’a
 ## Au fil de mon parcours, je me suis spécialisée en Business Analysis, un domaine qui correspond parfaitement à mon intérêt pour l’analyse des besoins métiers, la structuration des processus et l’amélioration continue.
 
 ## Cette spécialisation m’a permis de développer une vision globale des projets digitaux, en tenant compte à la fois des enjeux business, techniques et humains. J’y ai acquis des bases solides en analyse fonctionnelle, data analysis, gestion de projet et outils digitaux, tout en travaillant sur des cas concrets proches de la réalité professionnelle.
+
+{% section type="switcher", vars={"widthWrap":"","gap":"","class":""}, blocks=[], advanced={} %}
+
+##
