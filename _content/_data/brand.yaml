@@ -37,6 +37,27 @@ colors:
     value: '#51b3f0'
   - name: bleu-fonce
     value: '#123d40'
+palettes:
+  - name: ton-bleu
+    text: bleue
+    bg: bleu-fonce
+    accent: bleu-fonce
+    border: ''
+    text-decoration: ''
+    text--marker: ''
+    advancedDefaults: null
+    selection: null
+    strong: null
+    em: null
+    mark: null
+    b: null
+    heading: null
+    a: null
+    button: null
+    code: null
+    svg: null
+    scrollbar: null
+    advanced: null
 styleContexts:
   - name: main
     value: ctx
