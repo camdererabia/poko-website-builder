@@ -12,4 +12,4 @@ Passionnée par le digital, la data et l’optimisation des processus, je m’in
 
 Mon profil se situe à l’intersection du business et de la technologie : j’aime analyser des besoins, comprendre des problématiques concrètes et proposer des solutions efficaces, structurées et orientées résultats. Curieuse et proactive, je cherche constamment à apprendre et à développer des compétences utiles et applicables sur le terrain.
 
-{% section type="fixed-fluid", vars={"widthFixed":"","widthFluidMin":"","fixedRight":false,"gap":"","class":""}, blocks=[{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/image-ecomm.webp"}], advanced=null %}
+{% section type="switcher", vars={"widthWrap":"","gap":"","class":""}, blocks=[], advanced={} %}
