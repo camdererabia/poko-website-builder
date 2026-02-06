@@ -9,7 +9,7 @@ fontStacksContexts:
   - name: main
     body:
       native: system-ui
-      custom: ''
+      custom: Quickstand
     heading:
       native: system-ui
     code:
@@ -32,6 +32,11 @@ typeScales:
     minTypeScale: 1.2
     maxTypeScale: 1.25
     advanced: null
+colors:
+  - name: bleue
+    value: '#51b3f0'
+  - name: bleu-fonce
+    value: '#123d40'
 styleContexts:
   - name: main
     value: ctx
