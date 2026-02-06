@@ -1,0 +1,9 @@
+siteName: websiterabia
+productionUrl: https://poko-1b6.pages.dev/
+languages:
+  - code: français.fr
+    name: français
+    customUrlPrefix: null
+    status: published
+    isCmsDefault: false
+    isWebsiteDefault: false
