@@ -20,7 +20,7 @@ customFontsImport:
   - name: Quickstand
     source:
       type: fontsource
-      name: Boldonse
+      name: Playfair Display
       weights:
         - '400'
         - '300'
