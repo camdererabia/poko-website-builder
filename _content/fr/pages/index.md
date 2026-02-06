@@ -7,5 +7,6 @@ localizationKey: 0e71f0f46b73
 name: index
 eleventyNavigation:
   order: 4
+vars: {}
 ---
-{% image src="/_images/image-business.webp" %}
+{% image src="/_images/image-business.webp", alt="-b-" %}
