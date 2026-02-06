@@ -17,4 +17,4 @@ metadata:
     Mon profil se situe à l’intersection du business et de la technologie : j’aime analyser des besoins, comprendre des problématiques concrètes et proposer des solutions efficaces, structurées et orientées résultats. Curieuse et proactive, je cherche constamment à apprendre et à développer des compétences utiles et applicables sur le terrain.
 vars: {}
 ---
-{% image src="/_images/photo-business.webp", aspectRatio="1" %}
+{% image src="/_images/photo-business.webp", aspectRatio="2" %}
