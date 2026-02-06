@@ -8,12 +8,14 @@ widthsContexts:
 fontStacksContexts:
   - name: main
     body:
-      native: system-ui
+      native: industrial
       custom: Quickstand
     heading:
-      native: system-ui
+      native: monospace-slab-serif
+      custom: Quickstand
     code:
       native: monospace-code
+      custom: Quickstand
 customFontsImport:
   - name: Quickstand
     source:
@@ -21,6 +23,7 @@ customFontsImport:
       name: Boldonse
       weights:
         - '400'
+        - '300'
       styles:
         - normal
       subsets:
@@ -33,10 +36,10 @@ typeScales:
     maxTypeScale: 1.25
     advanced: null
 colors:
-  - name: bleue
-    value: '#51b3f0'
-  - name: bleu-fonce
-    value: '#123d40'
+  - name: blanc
+    value: '#ffffff'
+  - name: bleu-clair
+    value: '#59d0f8'
 palettes:
   - name: ton-bleu
     text: bleue
