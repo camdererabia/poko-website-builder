@@ -5,6 +5,9 @@ createdAt: 2026-02-06T13:39:00.000Z
 uuid: 9600aa94434e
 localizationKey: a13fa15d63d0
 name: Projets & expériences académiques
+eleventyNavigation:
+  title: Projet ERP Odoo
+  order: 3
 ---
 Projet ERP Odoo
 
