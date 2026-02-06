@@ -42,8 +42,8 @@ colors:
     value: '#59d0f8'
 palettes:
   - name: ton-bleu
-    text: bleue
-    bg: bleu-fonce
+    text: blanc
+    bg: bleu-clair
     accent: bleu-fonce
     border: ''
     text-decoration: ''
