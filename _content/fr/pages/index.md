@@ -8,4 +8,6 @@ name: Parcours
 eleventyNavigation:
   order: 4
 ---
-{% image src="/_images/image-business.webp", alt="-b-" %}
+{% image src="/_images/image-business.webp", alt="-b-", aspectRatio="4", width="3" %}
+
+{% image src="/_images/photo-business.webp", aspectRatio="2", width="3" %}
